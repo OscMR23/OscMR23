@@ -69,11 +69,7 @@ Las **habilidades blandas** (o "soft skills") son capacidades personales y socia
    - Recibir críticas constructivas de manera positiva y utilizarla para mejorar.
    - Dar retroalimentación a otros de manera respetuosa y útil.
 
-9. **Proactividad**:
-   - Tomar la iniciativa para identificar y resolver problemas antes de que se conviertan en mayores.
-   - Proponer mejoras continuas en los procesos y en el producto.
-
-10. **Manejo del estrés**:
+9. **Manejo del estrés**:
     - Mantener la calma y efectividad bajo presión, especialmente en momentos de plazos ajustados o cuando surgen problemas inesperados.
 
 
